@@ -1,0 +1,4 @@
+baseURL = 'https://rkarczmarczyk.github.io/perykopnik/'
+languageCode = 'pl'
+title = 'Perykopnik'
+theme = 'book'
